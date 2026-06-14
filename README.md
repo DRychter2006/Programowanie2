@@ -64,5 +64,17 @@ Do oceny modeli wykorzystano:
 - Random Forest
 - Logistic Regression
 
+## Wyniki
+Nie ma jednoznaczności, ponieważ:
+
+1. Jeśli patrzymy na ROC-AUC:
+Wygrywa- Logistic Regression (0.9537)
+
+2. Jeśli patrzymy na skuteczność klasyfikacji
+Wygrywa- Random Forest
+- najwyższe Accuracy (0.9032)
+- najwyższy Recall (0.9444)
+- najwyższy F1-score (0.9444)
+
 ## Autor
 Dominika Rychter
