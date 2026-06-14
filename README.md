@@ -35,14 +35,6 @@ W projekcie wykonano:
 - wizualizacje rozkładów cech,
 - analizę zależności między zmiennymi.
 
-## Feature Engineering
-
-Utworzono dodatkowe cechy:
-
-- smoking_effects
-- stress_index
-- respiratory_score
-
 ## Wykorzystane modele
 
 - Logistic Regression
@@ -67,9 +59,9 @@ Do oceny modeli wykorzystano:
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-Learn
+- Skicit-Learn
 - XGBoost
-- random forest
+- Random Forest
 - Logistic Regression
 
 ## Autor
